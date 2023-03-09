@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Am Sushmitha, working in lnT technology services for 5 years as a senior manual tester.
 <!--
 **SushmithaChandrashekar/SushmithaChandrashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
